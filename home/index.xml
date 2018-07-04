@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Andy Thai</title>
+    <link>http://andyth.ai/home/</link>
+    <description>Recent content in Homes on Andy Thai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://andyth.ai/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://andyth.ai/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/about/</guid>
+      <description>Biography I am currently a Ph.D. student at UC Irvine studying Computer Science, supervised by Professor Gopi Meenakshisundaram.
+My research interests include computer vision, computer animation, and the application of machine learning techniques to problems in computer graphics.
+As a UCSD undergraduate, I have previously worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within Professor Andrea Chiba&amp;rsquo;s laboratory.
+Curriculum Vitae My resume and CV can be found at the following links:</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://andyth.ai/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://andyth.ai/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://andyth.ai/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://andyth.ai/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://andyth.ai/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://andyth.ai/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/teaching/</guid>
+      <description> I have demonstrated experience with assisting in teaching and tutoring students and have consistently scored high reviews on my evaluations.
+Instructional Assistant, UCSD:  COGS 189: Brain-Computing Interfaces, 2018  IA Evaluations   Teaching Assistant, Math Enrichment:  4th Grade Common Core State Standards (Math and Language Arts), 2015
+ 7th Grade Common Core State Standards (Math and Language Arts), 2014  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://andyth.ai/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://andyth.ai/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://andyth.ai/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

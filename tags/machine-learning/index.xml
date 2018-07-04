@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-learning on Andy Thai</title>
+    <link>http://andyth.ai/tags/machine-learning/</link>
+    <description>Recent content in Machine-learning on Andy Thai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 03 Jul 2018 17:39:43 -0700</lastBuildDate>
+    
+	<atom:link href="http://andyth.ai/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anime Recommender System</title>
+      <link>http://andyth.ai/project/anime_recommender/</link>
+      <pubDate>Tue, 03 Jul 2018 17:39:43 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/anime_recommender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain-o-War</title>
+      <link>http://andyth.ai/project/brain_o_war/</link>
+      <pubDate>Tue, 03 Jul 2018 17:39:32 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/brain_o_war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RUBI-PAL</title>
+      <link>http://andyth.ai/project/rubi/</link>
+      <pubDate>Tue, 03 Jul 2018 17:10:53 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/rubi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

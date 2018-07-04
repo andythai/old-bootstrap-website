@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Andy Thai</title>
+    <link>http://andyth.ai/tags/other/</link>
+    <description>Recent content in Other on Andy Thai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 03 Jul 2018 17:40:05 -0700</lastBuildDate>
+    
+	<atom:link href="http://andyth.ai/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processing Animation</title>
+      <link>http://andyth.ai/project/processing/</link>
+      <pubDate>Tue, 03 Jul 2018 17:40:05 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSA Website</title>
+      <link>http://andyth.ai/project/csa/</link>
+      <pubDate>Tue, 03 Jul 2018 17:39:59 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/csa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soundboard</title>
+      <link>http://andyth.ai/project/soundboard/</link>
+      <pubDate>Tue, 03 Jul 2018 17:39:51 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/soundboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taskr</title>
+      <link>http://andyth.ai/project/taskr/</link>
+      <pubDate>Tue, 03 Jul 2018 17:39:47 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/taskr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Car Crashes in Allegheny</title>
+      <link>http://andyth.ai/project/allegheny_car_crashes/</link>
+      <pubDate>Tue, 03 Jul 2018 17:39:16 -0700</pubDate>
+      
+      <guid>http://andyth.ai/project/allegheny_car_crashes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
